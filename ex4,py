@@ -1,0 +1,6 @@
+lista = ["ana", "paulo", "jose"]
+nome1 = lista[0]
+nome2 = lista[2]
+lista[0] = nome2
+lista[2] = nome1
+print(lista)
